@@ -2,7 +2,7 @@
 /*
 Plugin Name: Speakers CPT
 Plugin URI: https://github.com/macgraphic/Speakers-cpt
-Description: Create the Speakers Custom Post Type.
+Description: Create the Speakers Custom Post Type, and add it to the Rest API.
 Version: 1.1.6
 Author: Mark Smallman
 Author URI: https://macgraphic.co.uk
